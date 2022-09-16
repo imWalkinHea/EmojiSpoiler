@@ -1,1 +1,3 @@
 # EmojiSpoiler
+
+"Fry" + "Day"
